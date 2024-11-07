@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello, my name is Yavuz Selim. I'm from TOBB etü university taking Artificial Intelligence Engineering.
 
-I'm currently learning programming.
+I'm currently learning programming with CS50.
