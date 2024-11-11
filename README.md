@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Yavuz Selim. I'm from TOBB etü university taking Artificial Intelligence Engineering.
+Hello, my name is Yavuz Selim. I'm studying Artificial Intelligence Engineering at TOBB ETÜ University.
 
 I'm currently learning programming with CS50.
