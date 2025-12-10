@@ -1,4 +1,4 @@
 ## Hi there
-Hello, my name is Yavuz Selim. I'm studying Artificial Intelligence Engineering.
+Hello, my name is Yavuz Selim. I'm studying Artificial Intelligence.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysoktar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
